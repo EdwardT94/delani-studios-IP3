@@ -3,9 +3,11 @@
     text-align: center;
     padding-top: 150px;
     background-image: url(../assets/backgrounds/h_img.jpg);
+    background-size:cover; 
     height: 650px;
     background-size: 100%;
     background-repeat:no-repeat;
+    position: relative;
 
 }
 .backg1 h1{
@@ -29,11 +31,15 @@
     padding-top: 50px;
     align-content: center;
     text-align: center;
+    margin-left: 110px;
+    margin-right: 110px;
 }
 .wtd h3{
     padding-bottom: 40px;
 }
 .portfolio{
+    margin-left: 110px;
+    margin-right: 110px;
     text-align: center;
 }
 .portfolio h3{
