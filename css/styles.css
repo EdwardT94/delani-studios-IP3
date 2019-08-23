@@ -74,5 +74,9 @@
    margin-left: 220px;
    margin-right: 210px;
 }
+.contact textarea{
+    background: transparent;
+    color: #fff;
+}
 
 
