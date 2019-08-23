@@ -1,0 +1,19 @@
+.backg1{
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    height: 650px;
+    background-size: 100%;
+    background-repeat:no-repeat;
+
+}
+.backg1 h1{
+    padding-top: 50px;
+}
+.mouse{
+    padding-top:120px;
+}
+.about{
+    text-align: center;
+}
