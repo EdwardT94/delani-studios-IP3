@@ -92,3 +92,11 @@ $(document).ready(function(){
       $("#w8").hide();
  });
 });
+
+$(document).ready(function(){
+    $(".form").submit(function(event){
+      var name=$(".name").val();
+    alert("How are you "+name+". Thank you for contacting us.");
+    event.preventDefault();
+    });
+   });
