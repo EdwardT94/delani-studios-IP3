@@ -96,7 +96,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $(".form").submit(function(event){
       var name=$(".name").val();
-    alert("How are you "+name+". Thank you for contacting us.");
+    alert("We received your message! Thank you for contacting us.");
     event.preventDefault();
     });
    });
