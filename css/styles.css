@@ -31,17 +31,15 @@
     padding-top: 50px;
     align-content: center;
     text-align: center;
-    margin-left: 120px;
+    margin-left: 70px;
     margin-right: 120px;
 }
 .wtd h3{
     padding-bottom: 40px;
 }
 .portfolio{
-    margin-left: 120px;
-    margin-right: 120px;
     text-align: center;
-    margin-top: 60px;
+    margin-top: 50px;
 }
 .portfolio h3{
     text-align: center;
@@ -88,4 +86,135 @@
 }
 #content3{
     display:none;
+}
+
+.work1{
+    color: rgb(10, 252, 199);
+    background-image: url(../assets/portfolio/work4.jpg);
+    background-size: 100%;
+    height: 170px;
+    border: 2px;
+    margin-right:10px;
+    margin-bottom:10px;
+    background-repeat: no-repeat;
+}
+#w1{
+    display: none;
+}
+#w1 h3{
+    border-style: double;
+}
+.work2{
+    color: rgb(10, 252, 199);
+    background-image: url(../assets/portfolio/work3.jpg);
+    background-size: 100%;
+    height: 170px;
+    border: 20px;
+    margin-right:10px;
+    background-repeat: no-repeat;
+}
+#w2{
+    display: none;
+}
+#w2 h3{
+    border-style: double;
+}
+.work3{
+    color: rgb(10, 252, 199);
+    background-image: url(../assets/portfolio/work2.jpg);
+    background-size: 100%;
+    height: 170px;
+    border: 20px;
+    margin-right:10px;
+    background-repeat: no-repeat;
+}
+#w3{
+    display: none;
+}
+#w3 h3{
+    border-style: double;
+}
+.work4{
+    color: rgb(10, 252, 199);
+    background-image: url(../assets/portfolio/work1.jpg);
+    background-size: 100%;
+    height: 170px;
+    border: 20px;
+    margin-right:10px;
+    background-repeat: no-repeat;
+}
+#w4{
+    display: none;
+}
+#w4 h3{
+    border-style: double;
+}
+.work5{
+    color: rgb(250, 11, 11);
+    background-image: url(../assets/portfolio/work5.jpg);
+    background-size: 100%;
+    height: 170px;
+    border: 20px;
+    margin-right:10px;
+    background-repeat: no-repeat;
+}
+#w5{
+    display: none;
+}
+#w5 h3{
+    border-style: double;
+}
+.work6{
+    color: rgb(250, 11, 11);
+    background-image: url(../assets/portfolio/work6.jpg);
+    background-size: 100%;
+    height: 170px;
+    border: 20px;
+    margin-right:10px;
+    background-repeat: no-repeat;
+}
+#w6{
+    display: none;
+}
+#w6 h3{
+    border-style: double;
+}
+.work7{
+    color: rgb(250, 11, 11);
+    background-image: url(../assets/portfolio/work7.jpg);
+    background-size: 100%;
+    height: 170px;
+    border: 20px;
+    margin-right:10px;
+    background-repeat: no-repeat;
+}
+#w7{
+    display: none;
+}
+#w7 h3{
+    border-style: double;
+}
+.work8{
+    color:rgb(250, 11, 11);
+    background-image: url(../assets/portfolio/work8.jpg);
+    background-size: 100%;
+    height: 170px;
+    border: 20px;
+    margin-right:10px;
+    background-repeat: no-repeat;
+    width: 800px;
+}
+#w8{
+    display: none;
+}
+#w8 h3{
+    border-style: double;
+    border:
+}
+.port1{
+    margin-left: 200px;
+}
+.port2{
+    margin-left: 200px;
+    margin-top: -40px;
 }
