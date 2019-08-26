@@ -1,15 +1,14 @@
 # DELANI FICTION STUDIO
-#### {Brief description of application}, {Date of current version}
+#### This website is for delani fictional studio and helps you to know more about delani studios and also send messages to admin and receive a notification.This Website was modified lastly on 26th August 2019
 #### By Edward Thomas
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This website is for delani fictional studio and helps you to know more about delani students and also send messages to admin.
+## Behaviour Driven Developement
+|Behaviour| Input| Output|
+|:--------|:-----|:------|
+|Filling The Form|Enter credentials| Dialog box with respective name|
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+You need to open the website using my github pages link and be able to access the website.
 ## Known Bugs
 There no bugs available
 ## Technologies Used
